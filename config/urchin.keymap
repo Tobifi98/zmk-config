@@ -7,7 +7,6 @@
  * 0: Base Layer (QWERTZ)
  * 1: Lower Layer (Numbers, Navigation)
  * 2: Raise Layer (Symbols, Special Characters)
- * final fix
  */
 
 #include <behaviors.dtsi>
